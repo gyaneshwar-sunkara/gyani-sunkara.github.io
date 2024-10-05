@@ -6,7 +6,7 @@ function toggleMenu() {
 }
 
 const textElement = document.getElementById('animated-text');
-const phrases = ['Senior Software Engineer', 'Mobile Developer', 'Web Developer'];
+const phrases = ['Solutions Architect', 'Web Developer', 'Mobile Developer'];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
